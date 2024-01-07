@@ -1,3 +1,5 @@
+import java.util.*;
+
 class Solution {
     public int[] twoSum(int[] nums, int target) { // my brute force solution
         for (int i = 0; i <= nums.length-1; i++){
